@@ -1,6 +1,5 @@
 ---
 layout: misc
-title: About
 ---
 
 # Lorre Atlan
@@ -21,5 +20,5 @@ I am a data scientist in the Pharma industry, where I have worked on ML models f
 - Spotfire/Power BI
 
 ## Background
-Bachelor's in Biomedical Engineering
-Ph.D in Bioengineering, Pediatric Brain Injury Biomechanics
+Bachelor's in Biomedical Engineering, Johns Hopkins University
+Ph.D in Bioengineering, Pediatric Brain Injury Biomechanics, University of Pennsylvania
