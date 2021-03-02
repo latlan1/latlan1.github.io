@@ -5,4 +5,4 @@ title: Contact
 
 I can be reached via:
 - [LinkedIn](https://linkedin.com/in/latlan1) and
-- [email](mailto:latlan@seas.upenn.edu)
+- [Email](mailto:latlan@seas.upenn.edu)
