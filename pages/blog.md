@@ -1,11 +1,12 @@
 ---
 layout: misc
 title: Blog
+image: dt_logo.png
 ---
 
-## My Blog: datathrillz.com
+## datathrillz
 
-My blog covers all things related to data processing, machine learning, and Python. Additionally, I aim to share practical insights on various topics. 
+My blog covers all things related to data processing, machine learning, and Python. Additionally, I aim to share practical insights on various topics.
 My interests include optimization, deep learning and efficiency hacks.
 
 ## Interesting Articles
@@ -14,4 +15,3 @@ My interests include optimization, deep learning and efficiency hacks.
 - [How Genetic Algorithms Work](https://www.datathrillz.com/genetic-algorithm/)
 
 [Check out datathrillz!](https://www.datathrillz.com/)
-
