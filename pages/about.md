@@ -3,4 +3,17 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+# Lorre Atlan
+
+I am a data scientist in the Pharma industry, where I have worked on ML models from various facets of Pharma such as Manufacturing, R&D and Consumer Health. My background is in Biomedical Engineering, which afforded me an expertise in scientific computing. 
+
+## My interests
+* optimization
+* graph data science
+* computer vision
+* probabalitic programming
+* NLP/NLG
+
+## Background
+Bachelor's in Biomedical Engineering
+Ph.D in Bioengineering, Pediatric Brain Injury Biomechanics
