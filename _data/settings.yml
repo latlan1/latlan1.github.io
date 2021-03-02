@@ -14,7 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link: 'linkedin.com/in/latlan1'}
-- {icon: 'envelope', link: 'mailto:latlan@seas.edu'}
+- {icon: 'envelope', link: 'mailto:latlan@seas.upenn.edu'}
 - {icon: 'github', link: 'latlan1.github.io'}
 
 
