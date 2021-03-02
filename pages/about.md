@@ -1,9 +1,9 @@
 ---
 layout: misc
-title: ABOUT
+title: About
 ---
 
-# Lorre Atlan
+## Lorre Atlan
 
 I am a data scientist in the Pharma industry, where I have worked on ML models from various facets of Pharma such as Manufacturing, R&D and Consumer Health. My background is in Biomedical Engineering, which afforded me an expertise in scientific computing. I love all things data, Machine Learning and Python
 
