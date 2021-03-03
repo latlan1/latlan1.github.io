@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Lorre Atlan, PhD"
-description:	       "data, Python, & Machine Learning enthusiast"
+description:	       "Machine Learning Enthusiast"
 #author:              "Lorre Atlan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
