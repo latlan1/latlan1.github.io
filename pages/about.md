@@ -1,9 +1,11 @@
 ---
-layout: misc
+layout: post
 title: About
+image: bitmoji_Lorre.png
+author: "Lorre"
 ---
 
-I am a data scientist in the Pharma industry, where I have worked on ML models from various facets of Pharma such as Manufacturing, R&D and Consumer Health. My background is in Biomedical Engineering, which afforded me an expertise in scientific computing. I love all things data, Machine Learning and Python and try to stay abreast of new papers and articles in this space.
+I am a Data Scientist in the Pharma industry, where I have worked on ML models from various facets of Pharma such as Manufacturing, R&D and Consumer Health. My background is in Biomedical Engineering, which afforded me an expertise in scientific computing. I love all things data, Machine Learning and Python and try to stay abreast of new papers and articles in this space.
 
 ## My Interests
 * Optimization
