@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 image: bitmoji_Lorre.png
 author: "Lorre"
