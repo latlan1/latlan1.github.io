@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Blog
 image: dt_logo.png
 author: "Lorre"
