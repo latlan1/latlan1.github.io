@@ -20,7 +20,9 @@ My goal is to develop and deploy AI systems that delivers tangible value to peop
 ## Tools
 - Python
 - R
+- Azure DevOps
 - HTML/CSS
+- Bash/Shell Scripting
 - SQL
 - Git
 - Spotfire/Power BI
