@@ -2,8 +2,8 @@
 layout: post
 title: "Using Bayesian Models to inform Business Decisions"
 author: "Lorre Atlan"
-categories: sample
-tags: [models]
+categories: models
+tags: [Bayesian]
 image: arctic-1.jpg
 ---
 
@@ -70,10 +70,12 @@ In summary, being familiar with the data and model that you are trying to fit wi
 For more examples of Bayesian models coded in Python, check out my Bayesian-Models repo.
 
 ## Sources    
-1. A Student’s Guide to Bayesian Statistics by Ben Lambert, https://study.sagepub.com/lambert
-2. https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/
+1. http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/#fully-worked-example-what-price-should-i-sell-my-used-phone-for
+2. https://twiecki.io/blog/2019/01/14/supply_chain/
+3. A Student’s Guide to Bayesian Statistics by Ben Lambert, https://study.sagepub.com/lambert
+4. https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/
 
 TODO:
 - make cover img
 - make & insert bayes rule img
-- incorporate mutlithreaded blog 
+- incorporate mutlithreaded blog
