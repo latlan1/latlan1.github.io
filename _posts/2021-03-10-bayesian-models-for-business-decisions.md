@@ -77,8 +77,3 @@ For more examples of Bayesian models coded in Python, check out my Bayesian-Mode
 2. [Using Bayesian Decision Making to Optimize Supply Chains](https://twiecki.io/blog/2019/01/14/supply_chain/)
 3. [A Student’s Guide to Bayesian Statistics by Ben Lambert](https://study.sagepub.com/lambert)
 4. [Multithreaded's Stochastic Optimiation](https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/)
-
-TODO:
-- make cover img
-- make & insert bayes rule img
-- incorporate mutlithreaded blog
