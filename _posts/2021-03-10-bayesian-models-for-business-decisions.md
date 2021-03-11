@@ -25,14 +25,14 @@ Essentially, Bayes rule gets distilled to:
 
 because the probability of the effect (or the Marginal) needs to integrates to 1 to be a valid probability distribution, which it great as it requires exact inference (typically a hard integration problem).
 
-- Posterior
-> The Posterior is probability of finding the cause given effect is what we want to find. It can also be thought of as the probability of finding model parameters that explain some phenomena in the data, x.
+### Posterior
+> The probability of finding the cause given effect is what we want to find. It can also be thought of as the probability of finding model parameters that explain some phenomena in the data, x.
 
-- Likelihood
-> The Likelihood is the probability of the effect given the cause or the probability that data, x occurs given model parameters.
+### Likelihood
+> The probability of the effect given the cause or the probability that data, x occurs given model parameters.
 
-- Prior
-> This probability specifies probability of the cause or the distribution of model parameters (coefficients).This will characterize the behavior of the likelihood.
+### Prior
+> This specifies probability of the cause or the distribution of model parameters (coefficients).This will characterize the behavior of the likelihood.
 
 
 ## Why take the Bayesian Approach?
@@ -57,7 +57,7 @@ We could fit the data to a simple approximation such as a Poisson distribution o
 We can explore the fit of our model and evaluate the suitability of the selected priors and likelihood to ensure we have a useful model. We can also explore the relationships between model parameters, which is helpful when we have several features to consider at once.
 
 ### 4. Optimization of Bayesian Model
-
+We can gain real insight into our ML problem by optimizing over supply and demand signals.
 
 ## Considerations Before Going Bayesian
 ### Choosing The Likelihood
@@ -71,10 +71,10 @@ In summary, being familiar with the data and model that you are trying to fit wi
 For more examples of Bayesian models coded in Python, check out my Bayesian-Models repo.
 
 ## Sources    
-1. (http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/#fully-worked-example-what-price-should-i-sell-my-used-phone-for)
-2. (https://twiecki.io/blog/2019/01/14/supply_chain/)
+1. [Bayesian Decision Fully Worked Example](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/#fully-worked-example-what-price-should-i-sell-my-used-phone-for)
+2. [Using Bayesian Decision Making to Optimize Supply Chains](https://twiecki.io/blog/2019/01/14/supply_chain/)
 3. [A Student’s Guide to Bayesian Statistics by Ben Lambert](https://study.sagepub.com/lambert)
-4. (https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/)
+4. [Multithreaded's Stochastic Optimiation](https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/)
 
 TODO:
 - make cover img
