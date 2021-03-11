@@ -31,5 +31,5 @@ My goal is to develop and deploy AI systems that delivers tangible value to peop
 - Matlab
 
 ## Background
-- Bachelor's in Biomedical Engineering, Johns Hopkins University
+- BS in Biomedical Engineering, Johns Hopkins University
 - PhD in Bioengineering, Pediatric Brain Injury Biomechanics, University of Pennsylvania
