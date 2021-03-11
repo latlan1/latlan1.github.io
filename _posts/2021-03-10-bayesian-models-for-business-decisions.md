@@ -4,7 +4,7 @@ title: "Using Bayesian Models to make business decisions"
 author: "Lorre"
 categories: models
 tags: [Bayesian]
-image: arctic-1.jpg
+image: bayesian_cover.png
 ---
 
 There are various fields that have data, which can be used to make informed business decisions. Supply chain is one example of an exciting area, where retailers, shipping companies or any organization with supply and demand data can utilize machine learning (ML) to increase their margin profits through prediction. There are two ways to approaching ML (and statistics): the frequentist approach, which is more common, and the Bayesian approach, the less well-understood counterpart.  Frequentist statistics bases its probabilities on counts of occurrences, while Bayesian assumes that probabilities are derived from Bayes Rule.
@@ -24,6 +24,8 @@ Essentially, Bayes rule gets distilled to:
     Pr(cause | effect) proportional to  [Pr(effect | cause) x Pr(cause)]
 
 because the probability of the effect (or the Marginal) needs to integrates to 1 to be a valid probability distribution, which it great as it requires exact inference (typically a hard integration problem).
+
+![Image of Bayes Rule](https://github.com/latlan1/latlan1.github.io/assets/img/bayes_rule.png)
 
 ### Posterior
 > The probability of finding the cause given effect is what we want to find. It can also be thought of as the probability of finding model parameters that explain some phenomena in the data, x.
@@ -57,7 +59,7 @@ We could fit the data to a simple approximation such as a Poisson distribution o
 We can explore the fit of our model and evaluate the suitability of the selected priors and likelihood to ensure we have a useful model. We can also explore the relationships between model parameters, which is helpful when we have several features to consider at once.
 
 ### 4. Optimization of Bayesian Model
-We can gain real insight into our ML problem by optimizing over supply and demand signals.
+We can gain real insight into our ML problem and make practical business decisions by optimizing over supply and demand signals.
 
 ## Considerations Before Going Bayesian
 ### Choosing The Likelihood
