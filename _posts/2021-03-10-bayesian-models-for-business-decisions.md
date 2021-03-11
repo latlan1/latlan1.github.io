@@ -25,7 +25,7 @@ Essentially, Bayes rule gets distilled to:
 
 because the probability of the effect (or the Marginal) needs to integrates to 1 to be a valid probability distribution, which it great as it requires exact inference (typically a hard integration problem).
 
-![Image of Bayes Rule](https://github.com/latlan1/latlan1.github.io/tree/gh-pages/assets/img/bayes_rule.png)
+![Image of Bayes Rule](bayes_rule.png)
 
 ### Posterior
 > The probability of finding the cause given effect is what we want to find. It can also be thought of as the probability of finding model parameters that explain some phenomena in the data, x.
